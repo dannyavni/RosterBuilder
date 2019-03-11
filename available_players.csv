@@ -1,0 +1,388 @@
+player_name,player_team,player_cap,player_pos
+Jared Boll,Anaheim Ducks,900000,F
+Sam Carrick,Anaheim Ducks,650000,F
+Emerson Etem,Anaheim Ducks,RFA,F
+Max Gortz,Anaheim Ducks,RFA,F
+Nicolas Kerdiles,Anaheim Ducks,650000,F
+Josh Manson,Anaheim Ducks,825000,D
+Jaycob Megna,Anaheim Ducks,RFA,D
+Logan Shaw,Anaheim Ducks,650000,F
+Clayton Stoner,Anaheim Ducks,3250000,D
+Dustin Tokarski,Anaheim Ducks,650000,G
+Corey Tropp,Anaheim Ducks,625000,F
+Sami Vatanen,Anaheim Ducks,4875000,D
+Chris Wagner,Anaheim Ducks,637500,F
+Alexander Burmistrov,Arizona Coyotes,RFA,F
+Kevin Connauton,Arizona Coyotes,1000000,D
+Louis Domingue,Arizona Coyotes,1050000,G
+Tyler Gaudet,Arizona Coyotes,RFA,F
+Peter Holland,Arizona Coyotes,RFA,F
+Josh Jooris,Arizona Coyotes,RFA,F
+Jamie McGinn,Arizona Coyotes,3333333,F
+Jeremy Morin,Arizona Coyotes,RFA,F
+Mitchell Moroz,Arizona Coyotes,RFA,F
+Teemu Pulkkinen,Arizona Coyotes,RFA,F
+Brad Richardson,Arizona Coyotes,2083333,F
+Branden Troock,Arizona Coyotes,RFA,F
+Linus Arnesson,Boston Bruins,RFA,D
+Matt Beleskey,Boston Bruins,3800000,F
+Tommy Cross,Boston Bruins,650000,D
+Jimmy Hayes,Boston Bruins,2300000,F
+Alexander Khokhlachev,Boston Bruins,--,F
+Anton Khudobin,Boston Bruins,1200000,G
+Adam McQuaid,Boston Bruins,2750000,D
+Colin Miller,Boston Bruins,1000000,D
+Joe Morrow,Boston Bruins,RFA,D
+Tim Schaller,Boston Bruins,RFA,F
+Malcolm Subban,Boston Bruins,RFA,G
+Brady Austin,Buffalo Sabres,RFA,D
+Zach Bogosian,Buffalo Sabres,5142857,D
+William Carrier,Buffalo Sabres,689167,F
+Nicolas Deslauriers,Buffalo Sabres,775000,F
+Justin Falk,Buffalo Sabres,650000,D
+Josh Gorges,Buffalo Sabres,3900000,D
+Justin Kea,Buffalo Sabres,RFA,F
+Matt Moulson,Buffalo Sabres,5000000,F
+Linus Ullmark,Buffalo Sabres,750000,G
+Matt Bartkowski,Calgary Flames,612500,D
+Lance Bouma,Calgary Flames,2200000,F
+Troy Brouwer,Calgary Flames,4500000,F
+Alex Chiasson,Calgary Flames,RFA,F
+Ryan Culkin,Calgary Flames,RFA,D
+Freddie Hamilton,Calgary Flames,612500,F
+Brett Kulak,Calgary Flames,RFA,D
+Tom McCollum,Calgary Flames,612500,G
+Emile Poirier,Calgary Flames,863333,F
+Hunter Shinkaruk,Calgary Flames,863333,F
+Matt Stajan,Calgary Flames,3125000,F
+Linden Vey,Calgary Flames,RFA,F
+Tyler Wotherspoon,Calgary Flames,RFA,D
+Daniel Altshuller,Carolina Hurricanes,RFA,G
+Klas Dahlbeck,Carolina Hurricanes,850000,D
+Erik Karlsson,Carolina Hurricanes,RFA,F
+Eddie Lack,Carolina Hurricanes,2750000,G
+Andrew Miller,Carolina Hurricanes,650000,F
+Andrej Nestrasil,Carolina Hurricanes,RFA,F
+Joakim Nordstrom,Carolina Hurricanes,1275000,F
+Lee Stempniak,Carolina Hurricanes,2500000,F
+Cam Ward,Carolina Hurricanes,3300000,G
+Dillon Fournier,Chicago Blackhawks,RFA,D
+Jeff Glass,Chicago Blackhawks,612500,G
+Kenton Helgesen,Chicago Blackhawks,RFA,F
+Marcus Kruger,Chicago Blackhawks,3083333,F
+Michael Latta,Chicago Blackhawks,RFA,F
+Ville Pokka,Chicago Blackhawks,RFA,D
+Dennis Rasmussen,Chicago Blackhawks,RFA,F
+Michal Rozsival,Chicago Blackhawks,650000,D
+Viktor Svedberg,Chicago Blackhawks,750000,D
+Jordin Tootoo,Chicago Blackhawks,700000,F
+Trevor Van Riemsdyk,Chicago Blackhawks,825000,D
+Mark Barberio,Colorado Avalanche,750000,D
+Troy Bourke,Colorado Avalanche,RFA,F
+Joe Colborne,Colorado Avalanche,2500000,F
+Turner Elson,Colorado Avalanche,RFA,F
+Eric Gelinas,Colorado Avalanche,RFA,D
+Felix Girard,Colorado Avalanche,RFA,F
+Mikhail Grigorenko,Colorado Avalanche,RFA,F
+Samuel Henley,Colorado Avalanche,RFA,F
+Calvin Pickard,Colorado Avalanche,1000000,G
+Duncan Siemens,Colorado Avalanche,RFA,D
+Carl Soderberg,Colorado Avalanche,4750000,F
+Patrick Wiercioch,Colorado Avalanche,RFA,D
+Josh Anderson,Columbus Blue Jackets,RFA,F
+Alex Broadhurst,Columbus Blue Jackets,RFA,F
+Matt Calvert,Columbus Blue Jackets,2200000,F
+Zac Dalpe,Columbus Blue Jackets,725000,F
+Oscar Dansk,Columbus Blue Jackets,RFA,G
+Anton Forsberg,Columbus Blue Jackets,RFA,G
+Scott Harrington,Columbus Blue Jackets,675000,D
+Jack Johnson,Columbus Blue Jackets,4357143,D
+William Karlsson,Columbus Blue Jackets,1000000,F
+Joonas Korpisalo,Columbus Blue Jackets,900000,G
+John Ramage,Columbus Blue Jackets,612500,D
+Lukas Sedlak,Columbus Blue Jackets,825000,F
+Daniel Zaar,Columbus Blue Jackets,RFA,F
+Mattias Backman,Dallas Stars,RFA,D
+Andrew Bodnarchuk,Dallas Stars,725000,D
+Ludwig Bystrom,Dallas Stars,650000,D
+Adam Cracknell,Dallas Stars,675000,F
+Justin Dowling,Dallas Stars,650000,F
+Cody Eakin,Dallas Stars,3850000,F
+Nick Ebert,Dallas Stars,RFA,D
+Justin Hache,Dallas Stars,RFA,D
+Dan Hamhuis,Dallas Stars,3750000,D
+Henri Kiviaho,Dallas Stars,RFA,G
+Maxime Lagace,Dallas Stars,RFA,G
+Kari Lehtonen,Dallas Stars,5900000,G
+Curtis McKenzie,Dallas Stars,700000,F
+Mark McNeill,Dallas Stars,RFA,F
+Patrik Nemeth,Dallas Stars,RFA,D
+Antti Niemi,Dallas Stars,4500000,G
+Jamie Oleksiak,Dallas Stars,RFA,D
+Greg Pateryn,Dallas Stars,800000,D
+Gemel Smith,Dallas Stars,RFA,F
+Matej Stransky,Dallas Stars,RFA,F
+Jared Coreau,Detroit Red Wings,612500,G
+Jonathan Ericsson,Detroit Red Wings,4250000,D
+Martin Frk,Detroit Red Wings,RFA,F
+Luke Glendening,Detroit Red Wings,1800000,F
+Darren Helm,Detroit Red Wings,3850000,F
+Niklas Kronwall,Detroit Red Wings,4750000,D
+Brian Lashoff,Detroit Red Wings,RFA,D
+Petr Mrazek,Detroit Red Wings,4000000,G
+Tomas Nosek,Detroit Red Wings,612500,F
+Xavier Ouellet,Detroit Red Wings,RFA,D
+Riley Sheahan,Detroit Red Wings,2075000,F
+Ryan Sproul,Detroit Red Wings,625000,D
+Eric Tangradi,Detroit Red Wings,650000,F
+Laurent Brossoit,Edmonton Oilers,750000,G
+Mark Fayne,Edmonton Oilers,3625000,D
+Jujhar Khaira,Edmonton Oilers,675000,F
+David Musil,Edmonton Oilers,RFA,D
+Iiro Pakarinen,Edmonton Oilers,725000,F
+Zachary Pochiro,Edmonton Oilers,RFA,F
+Benoit Pouliot,Edmonton Oilers,4000000,F
+Griffin Reinhart,Edmonton Oilers,RFA,D
+Henrik Samuelsson,Edmonton Oilers,RFA,F
+Dillon Simpson,Edmonton Oilers,RFA,D
+Graham Black,Florida Panthers,RFA,F
+Jason Demers,Florida Panthers,4500000,D
+Steven Hodges,Florida Panthers,RFA,F
+Jussi Jokinen,Florida Panthers,4000000,F
+Roberto Luongo,Florida Panthers,4533333,G
+Derek MacKenzie,Florida Panthers,1375000,F
+Jonathan Marchessault,Florida Panthers,750000,F
+Reece Scarlett,Florida Panthers,RFA,D
+Colton Sceviour,Florida Panthers,950000,F
+Michael Sgarbossa,Florida Panthers,RFA,F
+Reilly Smith,Florida Panthers,5000000,F
+MacKenzie Weegar,Florida Panthers,RFA,D
+Andy Andreoff,Los Angeles Kings,RFA,F
+Justin Auger,Los Angeles Kings,RFA,F
+Dustin Brown,Los Angeles Kings,5875000,F
+Jack Campbell,Los Angeles Kings,612500,G
+Kyle Clifford,Los Angeles Kings,1600000,F
+Andrew Crescenzi,Los Angeles Kings,RFA,F
+Nic Dowd,Los Angeles Kings,640000,F
+Marian Gaborik,Los Angeles Kings,4875000,F
+Matt Greene,Los Angeles Kings,2500000,D
+Trevor Lewis,Los Angeles Kings,2000000,F
+Kurtis MacDermid,Los Angeles Kings,RFA,D
+Brayden McNabb,Los Angeles Kings,1700000,D
+Michael Mersch,Los Angeles Kings,RFA,F
+Jordan Nolan,Los Angeles Kings,950000,F
+Nick Shore,Los Angeles Kings,RFA,F
+Jeff Zatkoff,Los Angeles Kings,900000,G
+Brady Brassart,Minnesota Wild,RFA,F
+Matt Dumba,Minnesota Wild,2550000,D
+Christian Folin,Minnesota Wild,RFA,D
+Kurtis Gabriel,Minnesota Wild,RFA,F
+Guillaume Gelinas,Minnesota Wild,RFA,D
+Tyler Graovac,Minnesota Wild,625000,F
+Alexander Gudbranson,Minnesota Wild,RFA,D
+Erik Haula,Minnesota Wild,RFA,F
+Zack Mitchell,Minnesota Wild,RFA,F
+Gustav Olofsson,Minnesota Wild,RFA,D
+Marco Scandella,Minnesota Wild,4000000,D
+Jordan Schroeder,Minnesota Wild,RFA,F
+Eric Staal,Minnesota Wild,3500000,F
+Alex Stalock,Minnesota Wild,650000,G
+Chris Stewart,Minnesota Wild,1150000,F
+Jacob De La Rose,Montreal Canadiens,RFA,F
+Daniel Carr,Montreal Canadiens,725000,F
+Connor Crisp,Montreal Canadiens,RFA,F
+Brandon Davidson,Montreal Canadiens,1425000,D
+Alexei Emelin,Montreal Canadiens,4100000,D
+Charles Hudon,Montreal Canadiens,650000,F
+Keegan Lowe,Montreal Canadiens,RFA,D
+Andrei Markov,Montreal Canadiens,UFC,D
+Stefan Matteau,Montreal Canadiens,RFA,F
+Torrey Mitchell,Montreal Canadiens,1200000,F
+Al Montoya,Montreal Canadiens,1062500,G
+Tomas Plekanec,Montreal Canadiens,6000000,F
+Zach Redmond,Montreal Canadiens,612500,D
+Chris Terry,Montreal Canadiens,650000,F
+Dalton Thrower,Montreal Canadiens,RFA,D
+Pontus Aberg,Nashville Predators,RFA,F
+Cody Bass,Nashville Predators,612500,F
+Anthony Bitetto,Nashville Predators,612500,D
+Petter Granberg,Nashville Predators,612500,D
+Matt Irwin,Nashville Predators,650000,D
+Marek Mazanec,Nashville Predators,RFA,G
+Cody McLeod,Nashville Predators,800000,F
+James Neal,Nashville Predators,5000000,F
+Andrew O'Brien,Nashville Predators,650000,D
+Jaynen Rissling,Nashville Predators,RFA,D
+Miikka Salomaki,Nashville Predators,612500,F
+Colton Sissons,Nashville Predators,625000,F
+Craig Smith,Nashville Predators,4250000,F
+Trevor Smith,Nashville Predators,612500,F
+Austin Watson,Nashville Predators,RFA,F
+Yannick Weber,Nashville Predators,650000,D
+Colin Wilson,Nashville Predators,3937500,F
+Beau Bennett,New Jersey Devils,RFA,F
+Mike Cammalleri,New Jersey Devils,5000000,F
+Jacob Josefson,New Jersey Devils,RFA,F
+Viktor Loov,New Jersey Devils,650000,D
+Ben Lovejoy,New Jersey Devils,2666667,D
+Jon Merrill,New Jersey Devils,1137500,D
+Stefan Noesen,New Jersey Devils,RFA,F
+Dalton Prout,New Jersey Devils,1575000,D
+Devante Smith-Pelly,New Jersey Devils,1300000,F
+Ben Thomson,New Jersey Devils,RFA,F
+Scott Wedgewood,New Jersey Devils,RFA,G
+Josh Bailey,New York Islanders,3300000,F
+Steve Bernier,New York Islanders,650000,F
+Jason Chimera,New York Islanders,2250000,F
+Casey Cizikas,New York Islanders,3350000,F
+Cal Clutterbuck,New York Islanders,3500000,F
+Calvin De Haan,New York Islanders,RFA,D
+Matthew Finn,New York Islanders,RFA,D
+Jesse Graham,New York Islanders,RFA,D
+Jaroslav Halak,New York Islanders,4500000,G
+Thomas Hickey,New York Islanders,2200000,D
+Nikolai Kulemin,New York Islanders,4187500,F
+Loic Leduc,New York Islanders,RFA,D
+Scott Mayfield,New York Islanders,625000,D
+Brock Nelson,New York Islanders,2500000,F
+Shane Prince,New York Islanders,850000,F
+Alan Quine,New York Islanders,612500,F
+Dennis Seidenberg,New York Islanders,1250000,D
+Ryan Strome,New York Islanders,2500000,F
+Taylor Beck,New York Rangers,RFA,F
+Daniel Catenacci,New York Rangers,RFA,F
+Adam Clendening,New York Rangers,RFA,D
+Jesper Fast,New York Rangers,RFA,F
+Michael Grabner,New York Rangers,1650000,F
+Nicklas Jensen,New York Rangers,RFA,F
+Steven Kampfer,New York Rangers,650000,D
+Kevin Klein,New York Rangers,2900000,D
+Oscar Lindberg,New York Rangers,RFA,F
+Michael Paliotta,New York Rangers,RFA,D
+Brandon Pirri,New York Rangers,RFA,F
+Matt Puempel,New York Rangers,725000,F
+Antti Raanta,New York Rangers,1000000,G
+Mackenzie Skapski,New York Rangers,RFA,G
+Mike Blunden,Ottawa Senators,737500,F
+Mark Borowiecki,Ottawa Senators,1100000,D
+Alexandre Burrows,Ottawa Senators,2500000,F
+Fredrik Claesson,Ottawa Senators,650000,D
+Chris Driedger,Ottawa Senators,RFA,G
+Andrew Hammond,Ottawa Senators,1350000,G
+Jyrki Jokipakka,Ottawa Senators,RFA,D
+Clarke MacArthur,Ottawa Senators,4650000,F
+Marc Methot,Ottawa Senators,4900000,D
+Ryan Rupert,Ottawa Senators,RFA,F
+Bobby Ryan,Ottawa Senators,7250000,F
+Patrick Sieloff,Ottawa Senators,RFA,D
+Chris Wideman,Ottawa Senators,800000,D
+Pierre-Edouard Bellemare,Philadelphia Flyers,1450000,F
+T.J. Brennan,Philadelphia Flyers,625000,D
+Greg Carey,Philadelphia Flyers,650000,F
+Taylor Leier,Philadelphia Flyers,RFA,F
+Andrew MacDonald,Philadelphia Flyers,5000000,D
+Colin McDonald,Philadelphia Flyers,637500,F
+Michal Neuvirth,Philadelphia Flyers,2500000,G
+Will O'Neill,Philadelphia Flyers,612500,D
+Jesper Pettersson,Philadelphia Flyers,RFA,D
+Michael Raffl,Philadelphia Flyers,2350000,F
+Matt Read,Philadelphia Flyers,3625000,F
+Dale Weise,Philadelphia Flyers,2350000,F
+Josh Archibald,Pittsburgh Penguins,RFA,F
+Ian Cole,Pittsburgh Penguins,2100000,D
+Frank Corrado,Pittsburgh Penguins,RFA,D
+Jean-Sebastien Dea,Pittsburgh Penguins,RFA,F
+Tim Erixon,Pittsburgh Penguins,RFA,D
+Marc-Andre Fleury,Pittsburgh Penguins,5750000,G
+Carl Hagelin,Pittsburgh Penguins,4000000,F
+Tom Kuhnhackl,Pittsburgh Penguins,625000,F
+Stuart Percy,Pittsburgh Penguins,RFA,D
+Derrick Pouliot,Pittsburgh Penguins,RFA,D
+Bryan Rust,Pittsburgh Penguins,640000,F
+Oskar Sundqvist,Pittsburgh Penguins,RFA,F
+Scott Wilson,Pittsburgh Penguins,625000,F
+Mikkel Boedker,San Jose Sharks,4000000,F
+Aaron Dell,San Jose Sharks,625000,G
+Dylan DeMelo,San Jose Sharks,650000,D
+Brenden Dillon,San Jose Sharks,3270000,D
+Barclay Goodrow,San Jose Sharks,RFA,F
+Troy Grosenick,San Jose Sharks,650000,G
+Dan Kelly,San Jose Sharks,0,D
+Paul Martin,San Jose Sharks,4850000,D
+David Schlemko,San Jose Sharks,2100000,D
+Joel Ward,San Jose Sharks,3275000,F
+Jordan Binnington,St. Louis Blues,RFA,G
+Robert Bortuzzo,St. Louis Blues,1150000,D
+Kyle Brodziak,St. Louis Blues,950000,F
+Jordan Caron,St. Louis Blues,RFA,F
+Jacob Doty,St. Louis Blues,RFA,F
+Landon Ferraro,St. Louis Blues,RFA,F
+Carl Gunnarsson,St. Louis Blues,2900000,D
+Carter Hutton,St. Louis Blues,1125000,G
+Dmitrij Jaskin,St. Louis Blues,1000000,F
+Jori Lehtera,St. Louis Blues,4700000,F
+Petteri Lindbohm,St. Louis Blues,RFA,D
+Magnus Paajarvi,St. Louis Blues,RFA,F
+David Perron,St. Louis Blues,3750000,F
+Ty Rattie,St. Louis Blues,RFA,F
+Nail Yakupov,St. Louis Blues,RFA,F
+Dylan Blujus,Tampa Bay Lightning,RFA,D
+Michael Bournival,Tampa Bay Lightning,RFA,F
+J.T. Brown,Tampa Bay Lightning,1250000,F
+Erik Condra,Tampa Bay Lightning,1250000,F
+Jake Dotchin,Tampa Bay Lightning,RFA,D
+Jason Garrison,Tampa Bay Lightning,4600000,D
+Kristers Gudlevskis,Tampa Bay Lightning,RFA,G
+Henri Ikonen,Tampa Bay Lightning,RFA,F
+Slater Koekkoek,Tampa Bay Lightning,RFA,D
+Tye McGinn,Tampa Bay Lightning,RFA,F
+Cedric Paquette,Tampa Bay Lightning,812500,F
+Jonathan Racine,Tampa Bay Lightning,RFA,D
+Andrej Sustr,Tampa Bay Lightning,RFA,D
+Antoine Bibeau,Toronto Maple Leafs,RFA,G
+Eric Fehr,Toronto Maple Leafs,2000000,F
+Seth Griffith,Toronto Maple Leafs,RFA,F
+Brendan Leipsic,Toronto Maple Leafs,RFA,F
+Joffrey Lupul,Toronto Maple Leafs,5250000,F
+Alexey Marchenko,Toronto Maple Leafs,1450000,D
+Martin Marincin,Toronto Maple Leafs,1250000,D
+Kerby Rychel,Toronto Maple Leafs,863333,F
+Ben Smith,Toronto Maple Leafs,650000,F
+Garret Sparks,Toronto Maple Leafs,RFA,G
+Richard Bachman,Vancouver Canucks,650000,G
+Alex Biega,Vancouver Canucks,750000,D
+Reid Boucher,Vancouver Canucks,RFA,F
+Michael Chaput,Vancouver Canucks,RFA,F
+Joseph Cramarossa,Vancouver Canucks,RFA,F
+Derek Dorsett,Vancouver Canucks,2650000,F
+Brendan Gaunce,Vancouver Canucks,RFA,F
+Jayson Megna,Vancouver Canucks,675000,F
+Tom Nilsson,Vancouver Canucks,RFA,D
+Andrey Pedan,Vancouver Canucks,750000,D
+Luca Sbisa,Vancouver Canucks,3600000,D
+Michael Zalewski,Vancouver Canucks,RFA,F
+Jay Beagle,Washington Capitals,1750000,F
+Taylor Chorney,Washington Capitals,800000,D
+Brett Connolly,Washington Capitals,RFA,F
+Cody Corbett,Washington Capitals,RFA,D
+Darren Dietz,Washington Capitals,RFA,D
+Christian Djoos,Washington Capitals,RFA,D
+Philipp Grubauer,Washington Capitals,RFA,G
+Aaron Ness,Washington Capitals,612500,D
+Liam O'Brien,Washington Capitals,RFA,F
+Brooks Orpik,Washington Capitals,5500000,D
+Nate Schmidt,Washington Capitals,RFA,D
+Zach Sill,Washington Capitals,612500,F
+Chandler Stephenson,Washington Capitals,RFA,F
+Nathan Walker,Washington Capitals,RFA,F
+Ben Chiarot,Winnipeg Jets,RFA,D
+Marko Dano,Winnipeg Jets,850000,F
+Quinton Howden,Winnipeg Jets,RFA,F
+Michael Hutchinson,Winnipeg Jets,1150000,G
+Scott Kosmachuk,Winnipeg Jets,RFA,F
+JC Lipon,Winnipeg Jets,RFA,F
+Shawn Matthias,Winnipeg Jets,2125000,F
+Julian Melchiori,Winnipeg Jets,625000,D
+Ryan Olsen,Winnipeg Jets,RFA,F
+Mark Stuart,Winnipeg Jets,2625000,D
+Ivan Telegin,Winnipeg Jets,--,F

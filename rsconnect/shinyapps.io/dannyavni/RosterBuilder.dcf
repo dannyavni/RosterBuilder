@@ -1,0 +1,13 @@
+name: RosterBuilder
+title: RosterBuilder
+username:
+account: dannyavni
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 758813
+bundleId: 1930651
+url: https://dannyavni.shinyapps.io/RosterBuilder/
+when: 1552309256.98518
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: select.txt

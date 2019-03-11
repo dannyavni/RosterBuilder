@@ -1,0 +1,31 @@
+"Player","Source_Team","CAP","Pos","PTS","plusminus","Age","P_Upside","GP","Status","Selected"
+"Andy Andreoff","Los Angeles Kings",677500,"LW",2,-2,25,0.226519337016575,36,"Auto",1
+"Anton Khudobin","Boston Bruins",1200000,"G",0,0,26,0.5,53,"Auto",1
+"Barclay Goodrow","San Jose Sharks",650000,"RW",1,0,23,0.263473053892216,3,"Auto",1
+"Brett Connolly","Washington Capitals",1500000,"RW",23,20,24,0.175824175824176,66,"Auto",1
+"Calvin Pickard","Colorado Avalanche",1e+06,"G",0,0,26,0.5,53,"Auto",1
+"Chris Terry","Montreal Canadiens",650000,"LW",4,-1,27,0.965317919075145,14,"Auto",1
+"Colin Wilson","Nashville Predators",3937500,"LW",35,7,27,0.364640883977901,70,"Auto",1
+"Curtis McKenzie","Dallas Stars",7e+05,"LW",16,5,25,0.326633165829146,53,"Auto",1
+"Dennis Seidenberg","New York Islanders",1250000,"D",22,25,35,0.513812154696133,73,"Auto",1
+"Eric Staal","Minnesota Wild",3500000,"C",65,17,32,0.447674418604651,82,"Auto",1
+"Erik Karlsson","Carolina Hurricanes",6500000,"D",71,10,26,0.398009950248756,77,"Auto",1
+"Ian Cole","Pittsburgh Penguins",2100000,"D",26,26,27,0.377551020408163,81,"Auto",1
+"Iiro Pakarinen","Edmonton Oilers",725000,"RW",4,2,25,0.964705882352941,14,"Auto",1
+"Jack Johnson","Columbus Blue Jackets",4357143,"D",23,23,30,0.747474747474748,82,"Auto",1
+"Josh Manson","Anaheim Ducks",825000,"D",17,14,25,0.430232558139535,82,"Auto",1
+"Magnus Paajarvi","St. Louis Blues",8e+05,"LW",13,9,25,0.967391304347826,32,"Auto",1
+"Marc Methot","Ottawa Senators",4900000,"D",12,13,31,0.19047619047619,68,"Auto",1
+"Marcus Kruger","Chicago Blackhawks",3083333,"C",17,7,26,0.861538461538462,70,"Auto",1
+"Marko Dano","Winnipeg Jets",850000,"C",11,0,22,0.856382978723404,38,"Auto",1
+"Matt Read","Philadelphia Flyers",3625000,"RW",19,3,30,0.759358288770054,63,"Auto",1
+"Michael Grabner","New York Rangers",1650000,"RW",40,22,29,0.561111111111111,76,"Auto",1
+"Michael Sgarbossa","Florida Panthers",2112642.72596154,"C",9,-5,24,0.779569892473118,38,"Auto",1
+"Nicolas Deslauriers","Buffalo Sabres",775000,"LW",2,-6,25,0.932960893854749,42,"Auto",1
+"Richard Bachman","Vancouver Canucks",650000,"G",0,0,26,0.5,53,"Auto",1
+"Seth Griffith","Toronto Maple Leafs",650000,"C",5,6,24,0.574257425742574,24,"Auto",1
+"Slater Koekkoek","Tampa Bay Lightning",8e+05,"D",4,-4,22,0.46195652173913,29,"Auto",1
+"Stefan Noesen","New Jersey Devils",660000,"RW",10,6,23,0.274611398963731,44,"Auto",1
+"Tyler Gaudet","Arizona Coyotes",2112642.72596154,"C",1,0,23,0.258536585365854,4,"Auto",1
+"Tyler Wotherspoon","Calgary Flames",2112642.72596154,"D",0,-2,23,0.421621621621622,4,"Auto",1
+"Xavier Ouellet","Detroit Red Wings",1250000,"D",12,2,23,0.296482412060302,66,"Auto",1
